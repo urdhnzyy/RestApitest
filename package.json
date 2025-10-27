@@ -1,0 +1,9 @@
+{
+  "name": "api-dhnzyy",
+  "version": "1.0.0",
+  "description": "REST API untuk Bot WhatsApp Dhnzyy",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
